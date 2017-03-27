@@ -1,8 +1,8 @@
-SCRIPT ANSIBLE DE AUTOMAÇÃO DA INSTALAÇÃO DO WORDPRESS EM UM SERVIDOR LINUX!
+Script de automação Wordpress utilizando Ansible
 
 Para executar o script utilize o seguinte comando:
 
 ansible-playbook playbook.yml -i hosts
 
-APROVEITE!!!
+Everton - INFNET
 # WordPress-Ansible
